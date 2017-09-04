@@ -1,0 +1,16 @@
+{
+  "name": "mean_full_st",
+  "version": "1.0.0",
+  "description": "Exercise of a project with mean technology",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "MrHell",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.15.4"
+  }
+}
